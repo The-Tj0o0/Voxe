@@ -10,10 +10,15 @@
       "name": "omalleycrab",
       "user-id": "E4C1C960B316D71"
     },
+    {
+      "name": "Burty",
+      "user-id": "E7BACC628B39A169"
+    },
   ],
 
   "super-admins": [
     "Tj",
-    "omalleycrab"
+    "omalleycrab",
+    "Burty"
   ]
 }
