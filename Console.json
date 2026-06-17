@@ -14,11 +14,16 @@
       "name": "Burty",
       "user-id": "E7BACC628B39A169"
     },
+    {
+      "name": "Lexi",
+      "user-id": "467114172575CC01"
+    },
   ],
 
   "super-admins": [
     "Tj",
     "omalleycrab",
-    "Burty"
+    "Burty",
+    "Lexi"
   ]
 }
