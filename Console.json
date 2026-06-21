@@ -26,6 +26,10 @@
       "name": "Lexi",
       "user-id": "A4E06D8CDF522CDA"
     },
+    {
+      "name": "Sos",
+      "user-id": "73A5C88A355DB705"
+    },
   ],
 
   "super-admins": [
@@ -33,6 +37,7 @@
     "Seb",
     "omalleycrab",
     "Burty",
-    "Lexi"
+    "Lexi",
+    "Sos"
   ]
 }
