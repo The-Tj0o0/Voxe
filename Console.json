@@ -3,7 +3,7 @@
 
   "admins": [
     {
-      "name": "Tj",
+      "name": "Voxe",
       "user-id": "3F818A47678E5C9C"
     },
     {
@@ -33,7 +33,7 @@
   ],
 
   "super-admins": [
-    "Tj",
+    "Voxe",
     "Seb",
     "omalleycrab",
     "Burty",
