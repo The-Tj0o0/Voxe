@@ -7,6 +7,10 @@
       "user-id": "3F818A47678E5C9C"
     },
     {
+     "name": "1x1x1x1VR121",
+      "user-id": "86AF3B9F3A525AA8",
+    },
+    {
       "name": "omalleycrab",
       "user-id": "9ED9C592A6C8D4B2"
     },
@@ -22,10 +26,8 @@
 
   "super-admins": [
     "Voxe",
-    "Seb",
     "omalleycrab",
-    "Burty",
     "Lexi",
-    "Sos"
+    "1x1x1x1VR121"
   ]
 }
